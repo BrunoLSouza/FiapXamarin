@@ -1,0 +1,14 @@
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\bin\Debug\netstandard2.0\15NET.FIAP.Xamarin.deps.json
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\bin\Debug\netstandard2.0\15NET.FIAP.Xamarin.dll
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\bin\Debug\netstandard2.0\ref\15NET.FIAP.Xamarin.dll
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\bin\Debug\netstandard2.0\15NET.FIAP.Xamarin.pdb
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\15NET.FIAP.Xamarin.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\15NET.FIAP.Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\15NET.FIAP.Xamarin.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\15NET.FIAP.Xamarin.AssemblyInfo.cs
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\15NET.FIAP.Xamarin.dll
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\ref\15NET.FIAP.Xamarin.dll
+C:\Users\logonrmlocal\Desktop\Bruno\FiapXamarin\15NET.FIAP.Xamarin\obj\Debug\netstandard2.0\15NET.FIAP.Xamarin.pdb
