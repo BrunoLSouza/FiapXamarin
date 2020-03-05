@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Xamarin.Essentials;
 
 namespace FIAP.NET15.XF.Views
 {
@@ -13,6 +14,9 @@ namespace FIAP.NET15.XF.Views
         public AboutPage()
         {
             InitializeComponent();
+            AppName.Text = AppInfo.Name;
+            AppVersion.Text = AppInfo.VersionString;
+            AppBuild.Text = AppInfo.BuildString;
         }
     }
 }
