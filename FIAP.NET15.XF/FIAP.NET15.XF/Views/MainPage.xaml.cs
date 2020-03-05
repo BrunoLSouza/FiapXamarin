@@ -17,6 +17,8 @@ namespace FIAP.NET15.XF.Views
         Dictionary<int, NavigationPage> MenuPages = new Dictionary<int, NavigationPage>();
         public MainPage()
         {
+            NavigationPage.SetHasNavigationBar(this, false);
+
             InitializeComponent();
 
             MasterBehavior = MasterBehavior.Popover;

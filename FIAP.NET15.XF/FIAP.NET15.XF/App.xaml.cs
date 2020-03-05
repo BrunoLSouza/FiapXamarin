@@ -14,7 +14,8 @@ namespace FIAP.NET15.XF
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new MainPage();
+            
+            MainPage = new NavigationPage(new Login());
         }
 
         protected override void OnStart()
